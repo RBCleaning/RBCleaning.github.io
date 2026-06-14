@@ -1,12 +1,12 @@
 ####################### Banner #########################
-style: "style1 orient-left content-align-left image-position-right fullscreen onload-image-fade-in onload-content-fade-right"
-title : "Hugo Story"
+style: "style1 orient-left content-align-left image-position-center fullscreen onload-image-fade-in onload-content-fade-right"
+title : "Hello!"
 subtitle: |
-  Hugo Story released for free under the <a target="_blank" href="https://creativecommons.org/licenses/by/3.0/">Creative Commons</a>.
+  We're the Robles Brothers - Welcome to our site!
 content : |
-  This is a <strong>Banner</strong> element, and it's generally used as an introduction or opening statement. You can customize its <span class="demo-controls">appearance with a number of modifiers</span>, as well as assign it an optional <code>onload</code> or <code>onscroll</code> transition modifier (<a href="#reference-banner">details</a>).
+  We're a two-man cleaning crew based out of Riverside county, California that's cleaned its way through properties from Los Angeles to the Coachella Valley. Have a short term rental property in need of two consistent cleaners with an eye for detail? Book us instantly in three easy steps!
 button:
-  label : "Get Started"
+  label : "Step 1: Get a Quote"
   link : "#first"
-image : "images/zaya.jpg"
+image : "images/BnWRB.png"
 
