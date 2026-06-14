@@ -1,9 +1,10 @@
 ####################### Spotlight #########################
 style: "style4 orient-center content-align-center image-position-center fullscreen onscroll-image-fade-in  onscroll-content-fade-right"
+id: "second"
 title : "Transparent Schedule"
 content: |
   View our calendar to confirm an available time slot that works for your property, then follow the next step to save the date with us! <iframe src="https://calendar.google.com/calendar/embed?src=roblesbrotherscleaning%40gmail.com&ctz=America%2FLos_Angeles" style="border: 0" width="700" height="525" frameborder="0" scrolling="no"></iframe>
 button: 
   label: "Step 3: Book a Visit"
-  link: "#"
+  link: "#third"
 image: "images/bed.jpg"
