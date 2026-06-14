@@ -1,10 +1,10 @@
 ####################### Spotlight #########################
-style: "style4 orient-center content-align-center image-position-center fullscreen onscroll-image-fade-in  onscroll-content-fade-center"
-id: "third"
-title : "Online Booking"
+style: "style1 orient-right content-align-left image-position-center onscroll-image-fade-in"
+id: "first"
+title : "Spotlight"
 content: |
-  Finally, submit a form so we can get your project on our books! <iframe src="https://docs.google.com/forms/d/e/1FAIpQLScBC4xMZoDcYdSPIjePlbUQx4tTRtaAd0afnp5kDt2KyStfbg/viewform?embedded=true" width="640" height="625" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
+  And yes, this is another <strong>Spotlight</strong> element, and it's also here because I need to fill a bit of space. Naturally, like any other spotlight, you can customize its <span class="demo-controls">appearance with a number of modifiers</span>, as well as assign it an optional <code>onload</code> or <code>onscroll</code> transition modifier (<a href="#reference-spotlight">details</a>).
 button: 
-  label: "Success!"
-  link: "#fourth"
-image: "images/CNPoolTable.png"
+  label: "Learn More"
+  link: "#"
+image: "images/spotlight03.jpg"

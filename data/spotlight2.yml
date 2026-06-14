@@ -1,10 +1,9 @@
 ####################### Spotlight #########################
-style: "style4 orient-center content-align-center image-position-center fullscreen onscroll-image-fade-in  onscroll-content-fade-right"
-id: "second"
-title : "Transparent Schedule"
+style: "style1 orient-left content-align-left image-position-center onscroll-image-fade-in"
+title : "Spotlight"
 content: |
-  View our calendar to confirm an available time slot that works for your property, then follow the next step to save the date with us! <iframe src="https://calendar.google.com/calendar/embed?src=roblesbrotherscleaning%40gmail.com&ctz=America%2FLos_Angeles" style="border: 0" width="700" height="525" frameborder="0" scrolling="no"></iframe>
+  This is also a <strong>Spotlight</strong> element, and it's here because this demo would look a bit empty with just one spotlight. Like all spotlights, you can customize its <span class="demo-controls">appearance with a number of modifiers</span>, as well as assign it an optional <code>onload</code> or <code>onscroll</code> transition modifier (<a href="#reference-spotlight">details</a>).
 button: 
-  label: "Step 3: Book a Visit"
-  link: "#third"
-image: "images/CNMasterBed.png"
+  label: "Learn More"
+  link: "#"
+image: "images/spotlight02.jpg"
