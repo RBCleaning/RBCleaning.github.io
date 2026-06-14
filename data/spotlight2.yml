@@ -1,10 +1,9 @@
 ####################### Spotlight #########################
 style: "style4 orient-center content-align-center image-position-center fullscreen onscroll-image-fade-in  onscroll-content-fade-right"
-id: "second"
 title : "Transparent Schedule"
 content: |
   View our calendar to confirm an available time slot that works for your property, then follow the next step to save the date with us!
 button: 
   label: "Step 3: Book a Visit"
-  link: "#third"
+  link: "#"
 image: "images/CNMasterBed.png"
