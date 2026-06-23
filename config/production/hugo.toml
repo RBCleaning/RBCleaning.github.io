@@ -2,7 +2,7 @@
 ## Basic Configuration
 ## -----------------------------------------------
 
-title = "Hugo Story"
+title = "Robles Brothers"
 copyright = "{year}"
 
 ## -----------------------------------------------
@@ -37,11 +37,11 @@ disableKinds = ["taxonomy", "section"]
   favicon = true
 
 [Params.social]
-  github = "https://github.com/caressofsteel/"
-  twitter = "https://twitter.com/caressofsteel_"
-  email = "caressofsteel@protonmail.com"
+  turno = "https://app.turno.com/vacation-rental-cleaner-profile/521733/417844/Moreno%20Valley/California/United%20States"
+  twitter = "https://nextdoor.com"
+  email = "roblesbrotherscleaning@gmail.com"
   instagram = "https://instagram.com"
-  linkedin = "https://linkedin.com"
+  thumbtack = "https://thumbtack.com"
   telegram = "https://telegram.org"
 
 [Params.asset]

@@ -2,9 +2,9 @@
 style: "style1 orient-left content-align-left image-position-center fullscreen onload-image-fade-in onload-content-fade-right"
 title : "Hello!"
 subtitle: |
-  We're the Robles Brothers - Welcome to our site!
+  Welcome to our new website!
 content : |
-  We're a two-man cleaning crew based out of Riverside county, California that's cleaned its way through properties from Los Angeles to the Coachella Valley. Have a short term rental property in need of two consistent cleaners with an eye for detail? Book us instantly in three easy steps!
+  We're the Robles Brothers - A two-man cleaning crew based out of Riverside county, California that's cleaned its way through properties from Los Angeles to the Coachella Valley. Have a short term rental property in need of two consistent cleaners with an eye for detail? Book us instantly in three easy steps!
 button:
   label : "Step 1: Get a Quote"
   link : "#first"

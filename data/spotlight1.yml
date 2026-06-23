@@ -3,7 +3,7 @@ style: "style4 orient-right content-align-left image-position-center fullscreen 
 id: "first"
 title : "Instant Quotes"
 content: |
-  We provide two easy methods for getting a quote for your project in seconds without having to wait on a response from us. If you have a Google account and have access to a desktop computer, you can use our <a href="https://docs.google.com/spreadsheets/d/1ERIOEivsWTt_FI6PTujsDTbKDpWscOjIt_fgMiAt72E/edit?usp=sharing">Cleaning Calculator</a> by following the visual guide on the left. Otherwise, please make use of our helpful <a href="#PricingGuide">Pricing Guide</a>!
+  We provide two easy methods for getting a quote for your project in seconds without having to wait on a response from us. If you have a Google account and have access to a desktop computer, you can use our <a href="https://docs.google.com/spreadsheets/d/1ERIOEivsWTt_FI6PTujsDTbKDpWscOjIt_fgMiAt72E/edit?usp=sharing">Cleaning Calculator</a> by following the visual guide on the left. Otherwise, please make use of our helpful <a href="https://roblesbrothers.com/images/gallery/fulls/FullCNPoolTable.png">Pricing Guide</a>!
 button: 
   label: "Step 2: Check our Availability"
   link: "#second"
